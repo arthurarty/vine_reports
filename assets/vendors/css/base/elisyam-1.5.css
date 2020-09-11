@@ -6530,7 +6530,7 @@ section.forms form span, section.forms form small {
 }
 
 nav.navbar {
-  background: #fff;
+  background: rgb(0, 0, 0);
   padding: 0 15px;
   color: #aea9c3;
   border-radius: 0;
